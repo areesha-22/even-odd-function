@@ -1,0 +1,26 @@
+{
+  "name": "even-odd-function",
+  "version": "1.0.0",
+  "description": "It perform even odd functions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areesha-22/even-odd-function.git"
+  },
+  "author": "AREESHA ABDUL RAHIM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/areesha-22/even-odd-function/issues"
+  },
+  "homepage": "https://github.com/areesha-22/even-odd-function#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
